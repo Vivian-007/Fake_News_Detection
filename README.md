@@ -16,20 +16,9 @@ This project implements a fake news detection system using Natural Language Proc
 
 ## Usage
 1. Place `True.csv` and `Fake.csv` in the working directory
-2. Run the Jupyter notebook `finaltofinalhope.ipynb`
+2. Run the Jupyter notebook `app.ipynb`
 3. The system will:
    - Preprocess the data
    - Train and evaluate models
    - Show accuracy metrics and confusion matrices
    - Test sample inputs
-
-## Sample Output
-The system provides:
-- Accuracy scores for each model
-- Classification reports (precision, recall, F1-score)
-- Visual confusion matrices
-- Predictions for custom inputs
-
-## Example Prediction
-Input: "Aliens spotted talking to UN delegates."
-Output:
